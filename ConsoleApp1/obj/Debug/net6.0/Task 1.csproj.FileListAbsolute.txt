@@ -1,0 +1,15 @@
+C:\Users\Thinkpad PC\Desktop\3 projects way to freedom\Students Library 2\C# Inheritance,Abstract,Override.Hide, Overload\ConsoleApp1\bin\Debug\net6.0\Task 1.exe
+C:\Users\Thinkpad PC\Desktop\3 projects way to freedom\Students Library 2\C# Inheritance,Abstract,Override.Hide, Overload\ConsoleApp1\bin\Debug\net6.0\Task 1.deps.json
+C:\Users\Thinkpad PC\Desktop\3 projects way to freedom\Students Library 2\C# Inheritance,Abstract,Override.Hide, Overload\ConsoleApp1\bin\Debug\net6.0\Task 1.runtimeconfig.json
+C:\Users\Thinkpad PC\Desktop\3 projects way to freedom\Students Library 2\C# Inheritance,Abstract,Override.Hide, Overload\ConsoleApp1\bin\Debug\net6.0\Task 1.dll
+C:\Users\Thinkpad PC\Desktop\3 projects way to freedom\Students Library 2\C# Inheritance,Abstract,Override.Hide, Overload\ConsoleApp1\bin\Debug\net6.0\Task 1.pdb
+C:\Users\Thinkpad PC\Desktop\3 projects way to freedom\Students Library 2\C# Inheritance,Abstract,Override.Hide, Overload\ConsoleApp1\obj\Debug\net6.0\Task 1.csproj.AssemblyReference.cache
+C:\Users\Thinkpad PC\Desktop\3 projects way to freedom\Students Library 2\C# Inheritance,Abstract,Override.Hide, Overload\ConsoleApp1\obj\Debug\net6.0\Task 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thinkpad PC\Desktop\3 projects way to freedom\Students Library 2\C# Inheritance,Abstract,Override.Hide, Overload\ConsoleApp1\obj\Debug\net6.0\Task 1.AssemblyInfoInputs.cache
+C:\Users\Thinkpad PC\Desktop\3 projects way to freedom\Students Library 2\C# Inheritance,Abstract,Override.Hide, Overload\ConsoleApp1\obj\Debug\net6.0\Task 1.AssemblyInfo.cs
+C:\Users\Thinkpad PC\Desktop\3 projects way to freedom\Students Library 2\C# Inheritance,Abstract,Override.Hide, Overload\ConsoleApp1\obj\Debug\net6.0\Task 1.csproj.CoreCompileInputs.cache
+C:\Users\Thinkpad PC\Desktop\3 projects way to freedom\Students Library 2\C# Inheritance,Abstract,Override.Hide, Overload\ConsoleApp1\obj\Debug\net6.0\Task 1.dll
+C:\Users\Thinkpad PC\Desktop\3 projects way to freedom\Students Library 2\C# Inheritance,Abstract,Override.Hide, Overload\ConsoleApp1\obj\Debug\net6.0\refint\Task 1.dll
+C:\Users\Thinkpad PC\Desktop\3 projects way to freedom\Students Library 2\C# Inheritance,Abstract,Override.Hide, Overload\ConsoleApp1\obj\Debug\net6.0\Task 1.pdb
+C:\Users\Thinkpad PC\Desktop\3 projects way to freedom\Students Library 2\C# Inheritance,Abstract,Override.Hide, Overload\ConsoleApp1\obj\Debug\net6.0\Task 1.genruntimeconfig.cache
+C:\Users\Thinkpad PC\Desktop\3 projects way to freedom\Students Library 2\C# Inheritance,Abstract,Override.Hide, Overload\ConsoleApp1\obj\Debug\net6.0\ref\Task 1.dll
